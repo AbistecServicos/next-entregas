@@ -1,5 +1,8 @@
 #### Comandos
 
+##### Rodando no local
+    npm run dev
+
 ##### Build
     npm run build
 
